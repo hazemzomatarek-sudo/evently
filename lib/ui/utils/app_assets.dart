@@ -24,8 +24,9 @@ abstract final class AppAssets {
   static const String icLockSvg = '${_basePath}ic_lock.svg';
   static const String icTimeSvg = '${_basePath}ic_time.svg';
   static const String icEmailSvg = '${_basePath}ic_email.svg';
-  static const String icGmailSvg = '${_basePath}ic_gmail.svg';
+  static const String icGmailPng = '${_basePath}ic_gmail.png';
   static const String icPersonSvg = '${_basePath}ic_person.svg';
   static const String icClosedSvg = '${_basePath}ic_closed.svg';
   static const String icBirthdaySvg = '${_basePath}ic_birthday.svg';
+  static const String icEyesSvg = '${_basePath}ic_eyes.svg';
 }
